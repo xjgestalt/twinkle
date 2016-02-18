@@ -1,6 +1,7 @@
 ##part1
 
 aaa
+我们是好朋友
 
 ##connect with interesting people
 和有趣的人做朋友
